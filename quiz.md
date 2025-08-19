@@ -45,9 +45,9 @@
 ### Q7: What is the primary difference between message queues and publish-subscribe systems?
 
 - A. Message queues involve direct communication, while publish-subscribe is indirect
-- B. Message queues handle messages in a FIFO manner, while publish-subscribe does not (ANS)
+- B. Message queues handle messages in a FIFO manner, while publish-subscribe does not
 - C. Message queues broadcast messages to multiple receivers, while publish-subscribe sends messages to a single receiver
-- D. Message queues are suitable for point-to-point communication, while publish-subscribe is better for broadcasting updates
+- D. Message queues are suitable for point-to-point communication, while publish-subscribe is better for broadcasting updates (ANS)
 
 ### Q8: In the context of data encoding and schema evolution, what does backward compatibility refer to?
 
